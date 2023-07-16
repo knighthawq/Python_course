@@ -1,0 +1,4 @@
+first = "Danny"
+last = "Damen"
+
+formatted = f"First Name: {first}, Last Name: {last}"
